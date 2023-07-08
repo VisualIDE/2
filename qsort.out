@@ -1,0 +1,8 @@
+
+tot=0, l=1, r=0 mid=0  
+before swap i=1, j=0 ,a[1]=0,a[0]=0
+
+after swap i=1,j=0, l=1,r=0 
+over 1 round..............
+
+0
